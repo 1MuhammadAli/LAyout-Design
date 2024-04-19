@@ -1,0 +1,161 @@
+.div1{
+    height: 660px;
+    width: 1128px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 50px;
+    border-top:  2px solid black ;
+    border-left: 2px solid black ;
+    border-right: 2px solid black ;
+    font-style: Roboto light ;
+    font-size: 18px;
+    background-color: #F3EED9;
+}
+h1{
+    text-align: center;
+    color:black ;
+    height: 0;
+    min-height: 0%;
+    margin-bottom: 0;
+    padding-top: 18%;
+    size: 20px;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    color: brown ;
+    font-style: Roboto Light ;
+    height:05px;
+    min-height: 50px;
+    margin-bottom: 30%;
+    font-size: 45px;
+}
+.div2{
+    height: 660px;
+    width: 1128px;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-bottom: 0%;
+    font-style: Playfair Display Black ;
+    font-size: 60px;
+    border: 5px black;
+    background-color: white;
+    border-left: 2px solid black ;
+    border-right: 2px solid black ;
+}
+h3{
+    margin-left: 30%;
+    color: brown ;
+    height: 25px;
+    margin-bottom: 30px;
+    margin-top: 0%;
+    size: 30px;
+    padding-top: 2%;
+}
+#text1{
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    text-align:justify;
+    font-size: 20px;
+    height: 10px;
+    margin-top: 12%;
+    position: absolute;
+    left: 12%;
+    z-index: 2;
+}
+#text4{
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    text-align:justify;
+    font-size: 20px;
+    height: 10px;
+    margin-top: 12%;
+    position: absolute;
+    right: 12%;
+    z-index: 3;
+}
+.div3{
+    height: 660px;
+    width: 1128px;
+    margin-left: 100px;
+    margin-right: 50px;
+    font-style: Playfair Display Black ;
+    font-size: 36px;
+    border: 5px black;
+    background-color:#222C2A;
+    border-left: 2px solid black ;
+    border-right: 2px solid black ;
+}
+h4{
+    margin-left: 15%;
+    color: white ;
+    height: 25px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    padding-top: 5%;
+    font-size: 45px;
+}
+#text2{
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    text-align: justify;
+    font-size: 20px;
+    height: 10px;
+    margin-top: 12%;
+    margin-left: 10%;
+    color: white;
+    position: absolute;
+    left: 5%;
+}
+#img1{
+    padding-left: 45%;
+    margin-top: 15%;
+}
+.div4{
+    height: 660px;
+    width: 1128px;
+    margin-left: 100px;
+    margin-right: 50px;
+    font-style:  Roboto Regular  Black ;
+    font-size: 21px;
+    border: 5px black;
+    background-color:#824936;
+    margin-top: 0%;
+    margin-bottom: 5%;
+    border-left: 2px solid black ;
+    border-right: 2px solid black ;
+    border-bottom: 2px solid black ;
+}
+h5{
+    margin-top: 0%;
+    margin-left: 55%;
+    color: white ;
+    margin-bottom: 25px;
+    padding-top: 5%;
+    font-size: 45px;
+}
+#text4{
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    text-align: justify;
+    font-size: 20px;
+    height: 10px;
+    margin-top: 8%;
+    position: absolute;
+    right: 15%;
+    color: white;
+}
+#img2{
+    padding-left: 10%;
+    height: 40%;
+    width: 40%;
+    margin-top: 10%;
+}
